@@ -59,7 +59,7 @@ cd Univariate-Linear-Regression
 **2. Install the required dependencies**
 
 ```bash
-python -m python -m pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 > **Note:** On macOS/Linux, you may need to use `python3` instead of `python`.
